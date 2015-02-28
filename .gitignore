@@ -1,3 +1,6 @@
+# Backups and filesystem artifacts
+*~
+
 # Compiled Object files
 *.slo
 *.lo
@@ -26,3 +29,4 @@
 *.exe
 *.out
 *.app
+src/provr-compositor
